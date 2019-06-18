@@ -1,0 +1,16 @@
+th{
+    font-weight: normal;
+}
+td{
+    border : 1px solid black;
+    padding: 10px 15px;
+}
+
+table{
+    border-collapse: collapse;
+}
+thead{
+    background-color: RGB(255, 140, 0);
+    color: #FFF;
+    text-transform: uppercase;
+}
