@@ -8,7 +8,7 @@ Je suis Steven Boriboun , le développeur de ce code qui permet d'upload des vid
 Pour faire ce code , je me suis aidée de plusieur source extérieur .
 
 Vous aurez plusieurs fichiers mais il faudra que modifier le "video.php" et "mystyle.php
-
+il faudra créé un dossier "uploads".
 Dans "video.php",le code est séparé en 3 parties : l'upload , le tableau et les fonctions.
 
 PARTIE 1-l'upload: normalement , Vous n'avez rien à modifier dans cette partie, par contre si vous souhaitée modifier le style css alors il faudra modifiée le fichier "mystyle.css".
