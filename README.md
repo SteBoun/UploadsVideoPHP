@@ -1,5 +1,5 @@
 # UploadsVideoPHP
-Un code php qui permet upload des fichiers dans un dossier , de supprimer des fichiers dans s'un dossier et de copier l'URL de la video. 
+Un code php qui permet upload des fichiers dans un dossier , de supprimer des fichiers dans un dossier et de copier l'URL de la video. 
 
 Bonjour,
 
